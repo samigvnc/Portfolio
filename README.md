@@ -46,15 +46,13 @@ Git, Node.js ve npm yüklü olmalıdır.
 
 Kurulum
 
-Bash
 git clone https://github.com/samiguvenc/portfolio.git
 cd portfolio
 npm install
+
+
 Çevresel Değişkenler (.env)
-
 Kök dizinde bir .env.local dosyası oluşturun ve anahtarlarınızı ekleyin:
-
-Kod snippet'i
 PINECONE_API_KEY=your_key
 COHERE_API_KEY=your_key
 SAMBANOVA_API_KEY=your_key
