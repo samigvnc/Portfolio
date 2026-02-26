@@ -1,0 +1,42 @@
+İsim: Sami Güvenç
+Konum | Telefon: Şile , İstanbul, Türkiye | +90 552 710 29 52
+Doğum Tarihi: 2002
+Mail: sami.guvenc0@hotmail.com
+
+Eğitim: Işık Üniversitesi – Yazılım Mühendisliği (%100 İngilizce, tam burslu) / 2021 (4. sınıf)
+Staj: Trtek Teknolojik Ürünler Bilg.Yazılım Donanım San.ve Tic.Ltd.Şti. (Staj) 2025 Ağustos / 2025 Eylül
+İş Tecrübesi: Öğrenci Asistanı, Kurumsal İletişim Direktörlüğü (Mali İşler, Tanıtım Direktörlüğü, Call center)| 2023
+Temmuz-Eylül / 2024 Temmuz-Eylül / 2025 Temmuz-Eylül
+Bir öğrenci ekibi ile; aday öğrenci ve velilere üniversitenin tanıtılması, sorumlu olduğum bölümlerin
+akademik içeriklerinin ve staj imkanlarının adaylara aktarılması ve kampüs turu ve kampüs imkanlarının
+Tanıtım sonrasında ise okula gelecek olan aday öğrencilerinin sorularını yanıtlamak ve onları okul
+hakkında bilgilendirmek için call center’da görev aldım.
+Kayıt sürecinde ise Mali işler ekibi ile gelen adayların mali yükümlülüklerini yerine getirmelerinde yardımcı oldum.
+GMS Mobilya (Mobilya üretimi) 2009 – 2018
+Aile şirketimiz olan GMS Mobilya’da babamdan mesleği öğrendim. Yaklaşık 9 sene bu iş ile uğraştım ve
+babamın bana öğrettikleri ile meslekte usta oldum. Yaklaşık 1 sene işleri babamla birlikte yönettik. Bana
+bu süreçte zanaatkarlık, ince el işçiliği, çalışan bir ekibi yönetmek gibi bir çok şey kazandırdı. Bunun
+yanında ise esnaflık bana müşterilerle iletişim kurmayı ve fiziksel olarak iş yapmanın yanında faaliyetteki bir şirketin nasıl yönetildiğini öğretti.
+
+Hobiler: Futbol ve basketbol oynamak (lise 3 basketbol okul takımı) | koşmak | çoğunlukla aksiyon ve bilimkurgu
+konulu film ve diziler izlemek | etkinliklere katılıp dünyanın farklı yerlerinden insanlarla tanışmak
+
+Diller: İngilizce(okuma B1, yazma B2, dinlemeB2, konuşmaB1) | MS Ofice Programları | Takım Liderliği |
+Proje Yönetimi | Güçlü İletişim | Problem Çözme | Zaman Yönetimi
+
+Yazılım Dilleri: Python (intermediate), Java(intermediate), JavaScript(Node ve React üzerinde kendimi
+geliştiriyorum) (intermediate), RAG (Retrieval-Augmented Generation), Local AI Deployment (Ollama)
+
+Projeler
+NFS okuyucu ile laboratuvar giriş sistemi (Python Flask).
+Akıllı laboratuvar(Python Flask).
+Ağız ve diş sağlığı takip sistemi(ASP .Net Core)
+Mobilya E-ticaret sitesi (Nodejs Reactjs)
+Proje Yönetim sistemi(Nodejs Reactjs)
+Akıllı asistan özellikleri ve kestirimci bakım sistemleri geliştirmek için yerel yapay zeka model
+entegrasyonlarını (Ollama kullanarak) araştırıyorum.
+GitHub: https://github.com/samigvnc
+
+Kulüp
+Işık üniversitesi İşletme ve Ekonomi Kulübü
+Başkan yardımcısı 2024-2025
