@@ -81,7 +81,7 @@ export const projects = [
     id: 2,
     title: "Işık IEEE Proje Yönetim Sistemi",
     des: "IEEE kulübü için geliştirilmiş, görev takibi ve ekip yönetimini kolaylaştıran web uygulaması.",
-    img: "/Proje_Yonetim_Ana_ekran.png",
+    img: "/Proje_Yonetim_Ana_Ekran.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/Node.png"],
     link: "https://proje-yonetimi-chi.vercel.app/",
   },
@@ -90,7 +90,7 @@ export const projects = [
     title: "Laboratuvar Giriş Sistemi ve Akıllı Laboratuvar", // Projenin adı
     des: "Python Flask mimarisi üzerine kurulu, dinamik içerik yönetimi ve backend entegrasyonu sağlayan modern bir web çözümü.",
     img: "/L_Giris.jpg",
-    iconLists: ["/PYTHON.svg", "/Flask.png", "/HTML.png", "/CSS.png", "/JS.png"], 
+    iconLists: ["/PYTHON.png", "/Flask.png", "/HTML.png", "/CSS.png", "/JS.png"], 
     link: "https://github.com/samigvnc?tab=repositories", // GitHub veya canlı link
   },
 ];
