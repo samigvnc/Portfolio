@@ -85,6 +85,14 @@ export const projects = [
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/Node.png"],
     link: "https://proje-yonetimi-chi.vercel.app/",
   },
+  {
+    id: 3, 
+    title: "Laboratuvar Giriş Sistemi ve Akıllı Laboratuvar", // Projenin adı
+    des: "Python Flask mimarisi üzerine kurulu, dinamik içerik yönetimi ve backend entegrasyonu sağlayan modern bir web çözümü.",
+    img: "/L_Giris.jpg",
+    iconLists: ["/PYTHON.svg", "/Flask.png", "/HTML.png", "/CSS.png", "/JS.png"], 
+    link: "https://github.com/samigvnc?tab=repositories", // GitHub veya canlı link
+  },
 ];
 
 export const workExperience = [
