@@ -67,7 +67,7 @@ export const gridItems = [
   },
 ];
 
-// Bu kısımdaki statik verileri daha sonra MongoDB API'na bağlayacağız
+
 export const projects = [
   {
     id: 1,
@@ -87,9 +87,9 @@ export const projects = [
   },
   {
     id: 3, 
-    title: "Laboratuvar Giriş Sistemi ve Akıllı Laboratuvar", // Projenin adı
+    title: "Laboratuvar Giriş Sistemi ve Yapay zeka Asistanı", // Projenin adı
     des: "Python Flask mimarisi üzerine kurulu, dinamik içerik yönetimi ve backend entegrasyonu sağlayan modern bir web çözümü.",
-    img: "/L_Giris.jpg",
+    img: "/Lab_Giris_Gorsel.jpeg",
     iconLists: ["/PYTHON.jpg", "/Flask.png", "/HTML.png", "/CSS.png", "/JS.png"], 
     link: "https://github.com/samigvnc?tab=repositories", // GitHub veya canlı link
   },
